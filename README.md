@@ -16,3 +16,9 @@ This project uses the following software and Python libraries:
 - scikit-learn (v0.17)
 - matplotlib
 - Jupyter Notebook
+
+
+List of files - Description : 
+census.csv: The project dataset. You?ll load this data in the notebook.
+visuals.py: This Python script provides supplementary visualizations for the project. Do not modify.
+finding_donors.ipynb: This is the main file notebook file for the project.
